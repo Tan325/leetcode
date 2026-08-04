@@ -9,3 +9,4 @@ class Solution:
                     new += s[i]
     
         return len(new)
+    
